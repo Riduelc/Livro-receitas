@@ -11,6 +11,7 @@
 
 - Em uma panela com...
 
+- Fritar a ce
+
   **Negrito**
   _Itálico_
-
