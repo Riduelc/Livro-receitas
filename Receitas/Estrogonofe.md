@@ -14,7 +14,3 @@
   **Negrito**
   _Itálico_
 
-~~Coisa doida~~
-
-<u>**coisa maluca!**</u>
-
